@@ -7,7 +7,9 @@ A PyTorch-based computer vision project that classifies images of **pizza, steak
 - Applied **data preprocessing and augmentation** (e.g., flips, rotations, normalization) to improve model generalization.
 - Implemented and trained a **TinyVGG-inspired CNN** to classify food images.
 - Compared performance of models trained **with and without data augmentation** using **loss and accuracy curves**.
-- Used the trained model to make **predictions on unseen images**.## 🔑 Key Features
+- Used the trained model to make **predictions on unseen images**.
+
+## 🔑 Key Features
 - **Device-agnostic training** (runs on CPU or GPU).
 - **Custom dataset handling** with PyTorch’s `Dataset` and `DataLoader`.
 - **Data augmentation** using `torchvision.transforms`.
