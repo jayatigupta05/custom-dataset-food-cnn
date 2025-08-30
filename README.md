@@ -32,5 +32,3 @@ A PyTorch-based computer vision project that classifies images of **pizza, steak
 - Extend dataset to more food categories.
 - Experiment with transfer learning (e.g., ResNet, EfficientNet).
 - Deploy as a web app with FastAPI/Streamlit.
-\mathcal{L} = - \sum_{i=1}^N y_i \log(\hat{y}_i)
-$$
